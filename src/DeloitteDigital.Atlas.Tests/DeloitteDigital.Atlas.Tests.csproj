@@ -191,6 +191,12 @@
     <None Include="app.config">
       <SubType>Designer</SubType>
     </None>
+    <None Include="Data\Serialization\master\sitecore\content\Home.item" />
+    <None Include="Data\Serialization\master\sitecore\templates\Sample\Sample Item.item" />
+    <None Include="Data\Serialization\master\sitecore\templates\Sample\Sample Item\Data.item" />
+    <None Include="Data\Serialization\master\sitecore\templates\Sample\Sample Item\Data\Text.item" />
+    <None Include="Data\Serialization\master\sitecore\templates\Sample\Sample Item\Data\Title.item" />
+    <None Include="Data\Serialization\master\sitecore\templates\Sample\Sample Item\__Standard Values.item" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
